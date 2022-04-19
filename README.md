@@ -7,9 +7,7 @@ This repository contains materials including:
 3. Power BI Dashboard Creation
 
 
-#### 🔴 One of my previous Sessions on EDA, Model Building & Model Deployment: 
 
-[![Alt text](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/CC.JPG)](https://www.youtube.com/watch?v=GVECbcKUio4)
 
 #### 🔴 What is Customer Churning ?
 
